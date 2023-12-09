@@ -1,0 +1,8 @@
+.home-heading{
+    font-size: 60px;
+    font-weight: 600;
+    font-style: italic;
+    background: linear-gradient(to right, #3b2222 60%, #2c0136 );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
